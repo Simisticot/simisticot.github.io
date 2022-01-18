@@ -7,8 +7,8 @@ const spreadContentTag = document.getElementById("spreadContent");
 const spreadButton = document.getElementById("spread");
 const sleeveDrawCD = document.getElementById("sleeveDrawCD");
 const sleeveDrawButton = document.getElementById("sleeveDraw");
-const cooldownSleeveDraw = 3;
-const cooldownDraw = 3;
+const cooldownSleeveDraw = 120;
+const cooldownDraw = 30;
 const cards = [
     {
         name:"",
